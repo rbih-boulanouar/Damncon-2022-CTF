@@ -26,5 +26,5 @@ if (isset($dev)) {
 // fifth this number must be greater than 6 digits
 // sixth this number must be between 90000 and 99999 
 // so we can send a get request to the server with the following url
-// http://localhost/challenge1-php.php?number=90001
+// http://localhost/challenge1-php.php?number=0090001
 // and we will get the flag
